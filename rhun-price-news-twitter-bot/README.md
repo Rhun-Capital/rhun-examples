@@ -1,4 +1,4 @@
-# Rhun Crypto Analysis Bot
+# Rhun Price and Bews Bot
 
 A Lambda function that generates automated cryptocurrency market updates using Rhun's AI capabilities and Twitter API. The bot analyzes multiple cryptocurrencies (BTC, ETH, SOL), gathering price data, market sentiment, and relevant news to create concise, informative tweets.
 
